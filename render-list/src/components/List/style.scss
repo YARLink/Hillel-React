@@ -1,0 +1,17 @@
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  td {
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+  }
+  
+  .active {
+    color: red;
+    font-weight: bold;
+  }
+  
